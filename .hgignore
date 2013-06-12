@@ -1,0 +1,5 @@
+syntax: glob
+
+CSharpDaikonLib\CSharpDaikonLib\bin
+CSharpDaikonLib\CSharpDaikonLib\obj
+
